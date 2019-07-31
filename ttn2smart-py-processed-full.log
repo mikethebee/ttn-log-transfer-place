@@ -49,3 +49,16 @@
 { ,173003.00,5125.07608N,00049.97114W, time: 2019-07-30T17:30:20.826190233Z , data_rate: SF7BW125 , gtw_id: eui-008000000000b200 , rssi: -65 , snr: 11.5 }
 { ,173143.00,5125.07679N,00049.97143W, time: 2019-07-30T17:32:00.96612385Z , data_rate: SF7BW125 , gtw_id: eui-008000000000b200 , rssi: -65 , snr: 8.8 }
 { ,\x0f:\x00+\x08\xd7 time: 2019-07-31T08:05:31.817841993Z , data_rate: SF7BW125 , gtw_id: eui-008000000000b200 , rssi: -60 , snr: 7 }
+{ ,BNGG,BNN,BNW, time: 2019-07-31T09:46:22.333257069Z , data_rate: SF7BW125 , gtw_id: eui-008000000000b200 , rssi: -58 , snr: 8.2 }
+{ ,BNGG,BNN,BNW, time: 2019-07-31T12:18:06.238736078Z , data_rate: SF7BW125 , gtw_id: eui-008000000000b200 , rssi: -60 , snr: 9.5 }
+{ ,124027.00,5124.71499N,00050.58332W, time: 2019-07-31T12:40:41.771181137Z , data_rate: SF7BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -108 , snr: 5.8 }
+{ ,124121.00,5124.71746N,00050.58486W, time: 2019-07-31T12:41:36.098431511Z , data_rate: SF7BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -108 , snr: 5 }
+{ ,124213.00,5124.71617N,00050.58336W, time: 2019-07-31T12:42:27.815321018Z , data_rate: SF7BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -101 , snr: -4.5 }
+{ ,124319.00,5124.71685N,00050.58294W, time: 2019-07-31T12:43:34.055271566Z , data_rate: SF7BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -113 , snr: -0.5 }
+{ ,124408.00,5124.71644N,00050.58215W, time: 2019-07-31T12:44:25.830279278Z , data_rate: SF7BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -110 , snr: 3.5 }
+{ ,125420.00,5127.52036N,00058.30350W, time: 2019-07-31T12:54:40.211409483Z , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c2a , rssi: -105 , snr: -0.8 }
+{ ,152734.00,5127.39963N,00058.45692W, time: 2019-07-31T15:28:05.707413315Z , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c28 , rssi: -115 , snr: -6 }
+{ ,152831.00,5127.39661N,00058.35840W, time: 2019-07-31T15:29:07.604632669Z , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007c28 , rssi: -115 , snr: -10 }
+{ ,154248.00,5127.37532N,00058.08987W, time: 2019-07-31T15:43:17.01886655Z , data_rate: SF11BW125 , gtw_id: eui-647fdafffe007c28 , rssi: -102 , snr: -17.5 }
+{ ,154430.00,5127.34641N,00057.97877W, time: 2019-07-31T15:44:52.500764769Z , data_rate: SF8BW125 , gtw_id: eui-647fdafffe007c28 , rssi: -111 , snr: 2 }
+{ ,154552.00,5127.29718N,00057.91291W, time: 2019-07-31T15:46:14.710085414Z , data_rate: SF9BW125 , gtw_id: eui-647fdafffe007c28 , rssi: -110 , snr: 8.2 }
