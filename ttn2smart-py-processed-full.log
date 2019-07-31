@@ -1,1 +1,50 @@
+{ ,162456.00,5124.52605N,00050.14967W, time:  , data_rate: SF11BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -111 , snr: -9 }
+{ ,162456.00,5124.52605N,00050.14967W, time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -115 , snr: -10.5 }
+{ ,163333.00,5124.52571N,00050.14988W, time:  , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -117 , snr: -8 }
+{ ,163333.00,5124.52571N,00050.14988W, time:  , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -111 , snr: -11.8 }
+{ ,163508.00,5124.51918N,00050.14719W, time:  , data_rate: SF11BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -116 , snr: 2.5 }
+{ ,164015.00,5124.52891N,00050.13460W, time:  , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -113 , snr: 0 }
+{ ,164147.00,5124.52126N,00050.13772W, time:  , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -117 , snr: -4 }
+{ ,164147.00,5124.52126N,00050.13772W, time:  , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -117 , snr: -9 }
+{ ,164147.00,5124.52126N,00050.13772W, time:  , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -117 , snr: -10 }
+{ ,164526.00,5124.52255N,00050.13833W, time:  , data_rate: SF11BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -107 , snr: -10.5 }
+{ ,164526.00,5124.52255N,00050.13833W, time:  , data_rate: SF11BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -119 , snr: -4.8 }
+{ ,164700.00,5124.54293N,00050.12888W, time:  , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -115 , snr: 0.8 }
+{ ,164700.00,5124.54293N,00050.12888W, time:  , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -103 , snr: 1.5 }
+{ ,164700.00,5124.54293N,00050.12888W, time:  , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -116 , snr: 4 }
+{ ,165102.00,5124.70360N,00050.18707W, time:  , data_rate: SF11BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -101 , snr: 5.5 }
+{ ,165249.00,5124.78627N,00050.25177W, time:  , data_rate: SF9BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -108 , snr: 5.2 }
+{ ,165403.00,5124.83417N,00050.27404W, time:  , data_rate: SF9BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -119 , snr: -6.2 }
+{ ,165403.00,5124.83417N,00050.27404W, time:  , data_rate: SF9BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -115 , snr: -13 }
+{ ,165403.00,5124.83417N,00050.27404W, time:  , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -119 , snr: -12 }
+{ ,165700.00,5124.89476N,00050.10835W, time:  , data_rate: SF10BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -119 , snr: -7 }
+{ ,165700.00,5124.89476N,00050.10835W, time: 2019-07-30T16:56:10.253214Z , data_rate: SF11BW125 , gtw_id: eui-008000000000b200 , rssi: -111 , snr: 2 }
+{ ,170004.00,5125.03784N,00050.02418W, time: 2019-07-30T16:57:21.35847Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -100 , snr: 6.2 }
+{ ,170103.00,5125.06426N,00050.02428W, time: 2019-07-30T16:58:20.595215Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -90 , snr: 11.5 }
+{ ,170226.00,5125.08029N,00049.96801W, time: 2019-07-30T16:59:43.509956Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -89 , snr: 9.5 }
+{ ,170325.00,5125.07436N,00049.96924W, time: 2019-07-30T17:00:42.351872Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -67 , snr: 8.5 }
+{ ,170443.00,5125.07395N,00049.97273W, time: 2019-07-30T17:02:00.598742Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -69 , snr: 11.2 }
+{ ,170559.00,5125.07040N,00049.97459W, time: 2019-07-30T17:03:16.338849Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -69 , snr: 9.5 }
+{ ,170718.00,5125.07336N,00049.97313W, time: 2019-07-30T17:04:35.596847Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -69 , snr: 9.8 }
+{ ,170841.00,5125.07293N,00049.97652W, time: 2019-07-30T17:05:58.504725Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -60 , snr: 8.5 }
+{ ,170936.00,5125.07249N,00049.97070W, time: 2019-07-30T17:06:53.352608Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -69 , snr: 8 }
+{ ,171039.00,5125.07209N,00049.97118W, time: 2019-07-30T17:07:56.353389Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -67 , snr: 7.2 }
+{ ,171221.00,5125.07434N,00049.97453W, time: 2019-07-30T17:09:38.538357Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -75 , snr: 10 }
+{ ,171344.00,5125.07502N,00049.97427W, time: 2019-07-30T17:11:01.584114Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -75 , snr: 11.5 }
+{ ,171508.00,5125.07607N,00049.97065W, time: 2019-07-30T17:12:25.492142Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -67 , snr: 8.2 }
+{ ,171607.00,5125.07477N,00049.96909W, time: 2019-07-30T17:13:24.343744Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -72 , snr: 8.8 }
+{ ,171727.00,5125.07296N,00049.97854W, time: 2019-07-30T17:14:44.604621Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -69 , snr: 7.8 }
+{ ,171851.00,5125.07351N,00049.97456W, time: 2019-07-30T17:16:08.498511Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -69 , snr: 8.5 }
+{ ,171950.00,5125.07537N,00049.97285W, time: 2019-07-30T17:17:07.360273Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -67 , snr: 10 }
+{ ,172058.00,5125.07309N,00049.97487W, time: 2019-07-30T17:18:15.361816Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -65 , snr: 9.8 }
+{ ,172214.00,5125.07356N,00049.97202W, time: 2019-07-30T17:19:31.346758Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -66 , snr: 9.2 }
+{ ,172327.00,5125.07440N,00049.97372W, time: 2019-07-30T17:20:44.346019Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -69 , snr: 9.2 }
+{ ,172543.00,5125.07307N,00049.97467W, time: 2019-07-30T17:22:59.483892Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -67 , snr: 7.8 }
+{ ,172543.00,5125.07307N,00049.97467W, time: 2019-07-30T17:23:04.048652Z , data_rate: SF9BW125 , gtw_id: eui-008000000000b200 , rssi: -67 , snr: 11.5 }
+{ ,172639.00,5125.07429N,00049.97318W, time: 2019-07-30T17:23:56.895651Z , data_rate: SF10BW125 , gtw_id: eui-008000000000b200 , rssi: -63 , snr: 9.8 }
+{ ,172639.00,5125.07429N,00049.97318W, time: 2019-07-30T17:24:01.746521Z , data_rate: SF10BW125 , gtw_id: eui-008000000000b200 , rssi: -65 , snr: 9 }
+{ ,172639.00,5125.07429N,00049.97318W, time: 2019-07-30T17:24:06.599277Z , data_rate: SF10BW125 , gtw_id: eui-008000000000b200 , rssi: -62 , snr: 9.2 }
+{ ,172738.00,5125.07551N,00049.97251W, time: 2019-07-30T17:24:55.124415Z , data_rate: SF7BW125 , gtw_id: eui-008000000000b200 , rssi: -66 , snr: 8.5 }
+{ ,172847.00,5125.07546N,00049.97174W, time: 2019-07-30T17:26:04.111932Z , data_rate: SF7BW125 , gtw_id: eui-008000000000b200 , rssi: -66 , snr: 8.2 }
+{ ,173003.00,5125.07608N,00049.97114W, time: 2019-07-30T17:27:20.114908Z , data_rate: SF7BW125 , gtw_id: eui-008000000000b200 , rssi: -65 , snr: 11.5 }
 { ,173143.00,5125.07679N,00049.97143W, time: 2019-07-30T17:29:00.254162Z , data_rate: SF7BW125 , gtw_id: eui-008000000000b200 , rssi: -65 , snr: 8.8 }
