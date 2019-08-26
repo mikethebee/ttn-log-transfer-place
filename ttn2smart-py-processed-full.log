@@ -29,3 +29,7 @@
 { ,151254.00,5124.72571N,00050.35661W, time: 2019-08-26T15:13:12.577195751Z , data_rate: SF7BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -96 , snr: 7.8 }
 { ,151351.00,5124.72942N,00050.35622W, time: 2019-08-26T15:14:09.347341531Z , data_rate: SF7BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -92 , snr: 10.2 }
 { ,151504.00,5124.72406N,00050.35351W, time: 2019-08-26T15:15:22.57822183Z , data_rate: SF7BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -95 , snr: 9 }
+{ ,161107.00,5124.71923N,00050.35213W, time: 2019-08-26T16:12:18.278957969Z , data_rate: SF7BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -101 , snr: 7.2 }
+{ ,BNGG,BNN,BNW, time: 2019-08-26T16:14:45.858134869Z , data_rate: SF7BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -98 , snr: 8 }
+{ ,164553.00,5125.07706N,00049.97874W, time: 2019-08-26T16:46:08.116809743Z , data_rate: SF7BW125 , gtw_id: eui-008000000000b200 , rssi: -71 , snr: 7.2 }
+{ ,164809.00,5125.07524N,00049.97005W, time: 2019-08-26T16:48:27.478427169Z , data_rate: SF7BW125 , gtw_id: eui-008000000000b200 , rssi: -67 , snr: 8.8 }
