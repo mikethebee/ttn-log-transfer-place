@@ -1,1 +1,4 @@
-{ ,BNGG,BNN,BNW, time: 2020-03-01T11:27:30.524152057Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -64 , snr: 8 }
+{ ,BNGG,BNN,BNW, time: 2020-03-02T11:32:34.188084886Z , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -105 , snr: -14.5 }
+{ ,BNGG,BNN,BNW, time: 2020-03-02T11:40:03.888233865Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -63 , snr: 8.2 }
+{ ,BNGG,BNN,BNW, time: 2020-03-02T11:40:48.908705497Z , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -109 , snr: -10 }
+{ ,BNGG,BNN,BNW, time: 2020-03-02T16:19:47.605314225Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -60 , snr: 7.5 }
