@@ -1,30 +1,14 @@
-, { mlatitude: 51.4117 , mlongitude: -0.8618 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -97 , snr: 5 , }
-, { mlatitude: 51.4105 , mlongitude: -0.8626 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -105 , snr: -15.8 , }
-, { mlatitude: 51.4092 , mlongitude: -0.8649 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -103 , snr: 3 , }
-, { mlatitude: 51.4106 , mlongitude: -0.8634 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -115 , snr: -2 , }
-, { mlatitude: 51.4113 , mlongitude: -0.8664 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -111 , snr: 3 , }
-, { mlatitude: 51.4116 , mlongitude: -0.8694 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -104 , snr: 6.8 , }
-, { mlatitude: 51.4135 , mlongitude: -0.8703 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -104 , snr: 4.8 , }
-, { mlatitude: 51.4134 , mlongitude: -0.8704 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -114 , snr: -4.5 , }
-, { mlatitude: 51.4117 , mlongitude: -0.8688 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -117 , snr: -4.5 , }
-, { mlatitude: 51.4112 , mlongitude: -0.8662 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -117 , snr: -10.5 , }
-, { mlatitude: 51.4115 , mlongitude: -0.8625 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -117 , snr: -0.5 , }
-, { mlatitude: 51.4115 , mlongitude: -0.8598 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -105 , snr: -9.2 , }
-, { mlatitude: 51.4107 , mlongitude: -0.8566 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -94 , snr: 7.8 , }
-, { mlatitude: 51.4106 , mlongitude: -0.8538 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -112 , snr: -3.5 , }
-, { mlatitude: 51.4106 , mlongitude: -0.8511 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -113 , snr: -1.5 , }
-, { mlatitude: 51.4116 , mlongitude: -0.849 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -116 , snr: -1.2 , }
-, { mlatitude: 51.4128 , mlongitude: -0.8465 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -113 , snr: 2.5 , }
-, { mlatitude: 51.4117 , mlongitude: -0.8438 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -110 , snr: 4.2 , }
-, { mlatitude: 51.4117 , mlongitude: -0.8425 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -110 , snr: -3.8 , }
-, { mlatitude: 51.4114 , mlongitude: -0.8406 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -97 , snr: 4.8 , }
-, { mlatitude: 51.4114 , mlongitude: -0.8393 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -119 , snr: -1.5 , }
-, { mlatitude: 51.4113 , mlongitude: -0.8393 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -103 , snr: 2 , }
-, { mlatitude: 51.4113 , mlongitude: -0.8393 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -94 , snr: 0.8 , }
-, { mlatitude: 51.4115 , mlongitude: -0.8382 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -119 , snr: -9.5 , }
-, { mlatitude: 51.4115 , mlongitude: -0.8365 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -92 , snr: 3.2 , }
-, { mlatitude: 51.4114 , mlongitude: -0.8344 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -116 , snr: -0.2 , }
-, { mlatitude: 51.4126 , mlongitude: -0.8344 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -105 , snr: -6.5 , }
-, { mlatitude: 51.4126 , mlongitude: -0.8344 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b9d , rssi: -98 , snr: 2.8 , }
-, { mlatitude: 51.4159 , mlongitude: -0.8337 , time: 2020-11-10T11:15:42.189929Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -112 , snr: 3.5 , }
-, { mlatitude: 51.4177 , mlongitude: -0.8326 , time: 2020-11-10T11:20:50.797699Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -64 , snr: 8.2 , }
+, { mlatitude: 51.4316 , mlongitude: -0.7882 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b85 , rssi: -118 , snr: -17.2 , }
+, { mlatitude: 51.4353 , mlongitude: -0.7523 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c23 , rssi: -119 , snr: -8.2 , }
+, { mlatitude: 51.4257 , mlongitude: -0.7323 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b83 , rssi: -116 , snr: -5.5 , }
+, { mlatitude: 51.4256 , mlongitude: -0.7323 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b83 , rssi: -116 , snr: -6.2 , }
+, { mlatitude: 51.4256 , mlongitude: -0.7322 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b83 , rssi: -119 , snr: -8.8 , }
+, { mlatitude: 51.4257 , mlongitude: -0.7323 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b83 , rssi: -115 , snr: -6.8 , }
+, { mlatitude: 51.4256 , mlongitude: -0.7323 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c23 , rssi: -121 , snr: -18 , }
+, { mlatitude: 51.4256 , mlongitude: -0.7322 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c23 , rssi: -113 , snr: -14 , }
+, { mlatitude: 51.4256 , mlongitude: -0.7322 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b83 , rssi: -114 , snr: -5.8 , }
+, { mlatitude: 51.4256 , mlongitude: -0.7323 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe0075fb , rssi: -116 , snr: -14.8 , }
+, { mlatitude: 51.4271 , mlongitude: -0.7331 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe0075e5 , rssi: -117 , snr: -14.2 , }
+, { mlatitude: 51.4308 , mlongitude: -0.7945 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe0075fb , rssi: -114 , snr: -17.2 , }
+, { mlatitude: 51.4308 , mlongitude: -0.7945 , time: 2020-11-11T14:20:16.649304Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -100 , snr: 3.5 , }
+, { mlatitude: 51.4179 , mlongitude: -0.833 , time: 2020-11-11T14:22:31.498435Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -79 , snr: 8 , }
