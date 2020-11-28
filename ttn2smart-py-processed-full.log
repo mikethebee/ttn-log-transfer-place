@@ -1,9 +1,0 @@
-, { mlatitude: 51.4224 , mlongitude: -0.8336 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -119 , snr: -9.5 , }
-, { mlatitude: 51.424 , mlongitude: -0.8351 , time: 2020-11-21T10:47:22.569261Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -117 , snr: -7.2 , }
-, { mlatitude: 51.4236 , mlongitude: -0.8385 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -108 , snr: -2 , }
-, { mlatitude: 51.424 , mlongitude: -0.8425 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -117 , snr: -8.5 , }
-, { mlatitude: 51.424 , mlongitude: -0.8425 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -116 , snr: -10.5 , }
-, { mlatitude: 51.4196 , mlongitude: -0.8413 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -116 , snr: 1.8 , }
-, { mlatitude: 51.4201 , mlongitude: -0.8389 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007ba8 , rssi: -104 , snr: -7.8 , }
-, { mlatitude: 51.4202 , mlongitude: -0.8361 , time: 2020-11-21T11:17:29.457819Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -120 , snr: -6.5 , }
-, { mlatitude: 51.4191 , mlongitude: -0.8334 , time: 2020-11-21T11:20:46.621733Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -103 , snr: 5.8 , }
