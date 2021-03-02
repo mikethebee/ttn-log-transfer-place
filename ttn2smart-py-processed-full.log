@@ -1,0 +1,9 @@
+, { mlatitude: 51.4199 , mlongitude: -0.8331 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -116 , snr: -16 , }
+, { mlatitude: 51.422 , mlongitude: -0.8257 , time: 2021-03-02T10:15:38.45772Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -117 , snr: -0.2 , }
+, { mlatitude: 51.4234 , mlongitude: -0.819 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c1c , rssi: -121 , snr: -16.8 , }
+, { mlatitude: 51.4234 , mlongitude: -0.819 , time: 2021-03-02T10:19:01.782511Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -117 , snr: -6.2 , }
+, { mlatitude: 51.4191 , mlongitude: -0.8112 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007b80 , rssi: -113 , snr: -12 , }
+, { mlatitude: 51.4157 , mlongitude: -0.806 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -116 , snr: -10 , }
+, { mlatitude: 51.4123 , mlongitude: -0.8039 , time:  , data_rate: SF12BW125 , gtw_id: eui-647fdafffe007c3d , rssi: -115 , snr: -10.8 , }
+, { mlatitude: 51.4156 , mlongitude: -0.8096 , time: 2021-03-02T10:43:41.97904Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -120 , snr: -15 , }
+, { mlatitude: 51.4212 , mlongitude: -0.8243 , time: 2021-03-02T10:45:38.396916Z , data_rate: SF12BW125 , gtw_id: eui-008000000000b200 , rssi: -119 , snr: -0.8 , }
